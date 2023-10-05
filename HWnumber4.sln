@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWnumber4Laboratorka", "HWnumber4\HWnumber4Laboratorka.csproj", "{4AE02F4C-3FF1-431C-BE30-B968FC334D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWnumber4NeLaboratorka", "HWnumber4NeLaboratorka\HWnumber4NeLaboratorka.csproj", "{C4F6DBD9-5A0B-44B2-959A-BFA95366D140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE02F4C-3FF1-431C-BE30-B968FC334D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE02F4C-3FF1-431C-BE30-B968FC334D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE02F4C-3FF1-431C-BE30-B968FC334D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE02F4C-3FF1-431C-BE30-B968FC334D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F6DBD9-5A0B-44B2-959A-BFA95366D140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F6DBD9-5A0B-44B2-959A-BFA95366D140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F6DBD9-5A0B-44B2-959A-BFA95366D140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F6DBD9-5A0B-44B2-959A-BFA95366D140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C647D3DA-452E-44B0-BBA3-B55DFAE1F2CE}
+	EndGlobalSection
+EndGlobal
